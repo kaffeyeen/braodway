@@ -1,0 +1,35 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.link {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  }
+body {
+  font-family: Helvetica;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
